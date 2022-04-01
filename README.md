@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello Earthling 👋
+<a href="https://twitter.com/ilkerkara_">
+  <img align="left" alt="İlker Kara's Twitter Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ilker-kara/">
+  <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker)
+<br />
+
+#### 🔭 I’m currently working on **Sebit Information and Education Technologies Inc**
+#### 🌱 I’m currently learning **CI/CD**
+#### ⚡ I'm an Open Source supporter & Ubuntu 20.04 user
 
 <!--
 **karailker/karailker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
