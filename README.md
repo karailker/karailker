@@ -9,9 +9,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker)
 <br />
 
-#### 🔭 I’m currently working on **Sebit Information and Education Technologies Inc**
-#### 🌱 I’m currently learning **CI/CD**
-#### ⚡ I'm an Open Source supporter & Ubuntu 20.04 user
+#### 🔭 Working at **Sebit Information and Education Technologies Inc, Ankara/TÜRKİYE**
+#### 🌱 Learning **CI/CD**
+#### ⚡ Open Source supporter & Ubuntu 20.04 user
 
 <!--
 **karailker/karailker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
