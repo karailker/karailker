@@ -6,11 +6,11 @@
   <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker) -->
 <br />
 
 #### 🔭 Working at **Sebit Information and Education Technologies Inc, Ankara/Türkiye**
-#### 🌱 Lifelong Learner of **MlOps**
+#### 🌱 Lifelong learner of **Software Engineering** and **MlOps**
 #### ⚡ Open Source supporter & Ubuntu 20.04 user
 
 <!--
