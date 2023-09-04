@@ -1,6 +1,6 @@
 ### Hello Earthling 👋
 <a href="https://twitter.com/ilkerkara_">
-  <img align="left" alt="İlker Kara's X Profile" width="22px" src="https://cdn.simpleicons.org/x" />
+  <img align="left" style="background-color:white;" alt="İlker Kara's X Profile" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/ilker-kara/">
   <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin" />
