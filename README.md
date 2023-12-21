@@ -9,7 +9,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker) -->
 <br />
 
-#### 🔭 Working at **Sebit Information and Education Technologies Inc, Ankara/Türkiye**
 #### 🌱 Lifelong learner of **Software Engineering** and **MlOps**
 #### ⚡ Open Source supporter & Ubuntu 22.04 user
 
