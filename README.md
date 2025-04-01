@@ -3,7 +3,7 @@
   <img align="left" style="background-color:white;" alt="İlker Kara's X Profile" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/ilker-kara/">
-  <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg" />
+  <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker) -->
