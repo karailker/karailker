@@ -9,8 +9,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker) -->
 <br />
 
-#### 🌱 Lifelong learner of **Software Engineering** and **MlOps**
-#### ⚡ Open Source supporter & Ubuntu 22.04 user
+#### 🌱 Lifelong learner of **Software Engineering** and **MLOps**
+#### ⚡ **Open Source** & **Ubuntu** Forever!
+#### 📫 You can use my social media accounts to reach me.
 
 <!--
 **karailker/karailker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
