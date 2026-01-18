@@ -1,29 +1,52 @@
-### Hello Earthling 👋
-<a href="https://twitter.com/ilkerkara_">
-  <img align="left" style="background-color:white;" alt="İlker Kara's X Profile" width="22px" src="https://cdn.simpleicons.org/x" />
-</a>
-<a href="https://www.linkedin.com/in/ilker-kara/">
-  <img align="left" alt="İlker's LinkedIn Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
+## Hello Earthling 👋 I'm İlker
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=karailker.karailker) -->
-<br />
+<p align="left">
+  <a href="https://twitter.com/ilkerkara_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilker-kara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 
-#### 🌱 Lifelong learner of **Software Engineering** and **MLOps**
-#### ⚡ **Open Source** & **Ubuntu** Forever!
-#### 📫 You can use my social media accounts to reach me.
+---
 
-<!--
-**karailker/karailker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BSc Software Engineer
+**5+ years of professional experience** in building scalable and efficient software systems.
+I combine a solid academic foundation with over half a decade of industry expertise.
 
-Here are some ideas to get you started:
+* 🚀 Expertise: **Software Architecture** & **System Design**.
+* 🐧 **Ubuntu** & **Linux** power user.
+* 🌱 Focusing on **Backend Development** with an interest in **MLOps**.
+* ⚡ Strong advocate for **Open Source**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,docker,kubernetes,git,ubuntu,vscode,github" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=karailker&show_icons=true&theme=radical&hide_border=true" alt="İlker's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karailker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+* **Email:** [ilkerkara@outlook.com.tr](mailto:ilkerkara@outlook.com.tr)
+* **LinkedIn:** [İlker Kara](https://www.linkedin.com/in/ilker-kara/)
+* **X (Twitter):** [@ilkerkara_](https://twitter.com/ilkerkara_)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=karailker&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
