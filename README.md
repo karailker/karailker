@@ -32,11 +32,19 @@ I combine a solid academic foundation with over half a decade of industry expert
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Performance
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karailker&show_icons=true&theme=radical&hide_border=true" alt="İlker's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karailker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <!-- Extended GitHub stats including stars, forks, and repository count -->
+  <img src="https://github-stats-extended.vercel.app/api?username=karailker&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="İlker's Extended Stats" height="150" />
+  
+  <!-- Top languages analysis -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=karailker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<p align="left">
+  <!-- Contribution streak tracking for performance monitoring -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karailker&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
