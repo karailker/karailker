@@ -11,7 +11,7 @@
 
 ---
 
-### 💻 BSc Software Engineer
+### 💻 Software Engineer, BSc
 **5+ years of professional experience** in building scalable and efficient software systems.
 I combine a solid academic foundation with over half a decade of industry expertise.
 
