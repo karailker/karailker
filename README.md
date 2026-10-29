@@ -16,8 +16,9 @@
 I combine a solid academic foundation with over half a decade of industry expertise.
 
 * 🚀 Expertise: **Software Architecture** & **System Design**.
+* 🤖 **Backend Engineer** building **AI/ML systems** — from LLM training to inference & MLOps.
 * 🐧 **Ubuntu** & **Linux** power user.
-* 🌱 Focusing on **Backend Development** with an interest in **MLOps**.
+* 🖨️ 3D printing enthusiast — **Creality Ender 3 V2** & **Snapmaker U1**; contributor to [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer).
 * ⚡ Strong advocate for **Open Source**.
 
 ---
@@ -26,9 +27,18 @@ I combine a solid academic foundation with over half a decade of industry expert
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,linux,docker,kubernetes,git,ubuntu,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,pytorch,tensorflow,bash,linux,ubuntu,docker,kubernetes,git,github" />
   </a>
 </p>
+
+---
+
+### 🔭 Featured Projects
+
+* **[restorax](https://github.com/karailker/restorax)** — Open-source AI video & audio restoration platform: 25 models, pipeline DAG engine, ComfyUI node pack, REST API & CLI.
+* **[yilki-llm](https://github.com/karailker/yilki-llm)** — Training a Turkish LLM from scratch on a single RTX 3080: code, configs & experiment notes.
+* **[celery-fastapi](https://github.com/karailker/celery-fastapi)** — Automatic REST API generation for Celery tasks with FastAPI.
+* **[awesome-docker-compose](https://github.com/karailker/awesome-docker-compose)** — Curated Docker Compose configurations for PostgreSQL, Kafka, Redis, Elasticsearch & more.
 
 ---
 
@@ -44,7 +54,7 @@ I combine a solid academic foundation with over half a decade of industry expert
 
 <p align="left">
   <!-- Contribution streak tracking for performance monitoring -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karailker&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karailker&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
